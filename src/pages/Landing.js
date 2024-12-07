@@ -3,7 +3,7 @@ import React from "react";
 
 const Landing = () => {
   return (
-    <duv>
+    <div>
       {/* Landing Section with Image and Text Side by Side */}
       <section className="bg-white py-6 px-12 mt-1">
         <div className="container mx-auto flex justify-between items-center">
@@ -114,7 +114,7 @@ const Landing = () => {
           Get Premium
         </button>
       </section>
-    </duv>
+    </div>
   );
 };
 
